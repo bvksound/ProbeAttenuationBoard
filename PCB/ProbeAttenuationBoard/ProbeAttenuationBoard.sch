@@ -1,0 +1,229 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R1
+U 1 1 610CF5F1
+P 3050 2500
+F 0 "R1" V 2843 2500 50  0000 C CNN
+F 1 "560R" V 2934 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 2980 2500 50  0001 C CNN
+F 3 "~" H 3050 2500 50  0001 C CNN
+	1    3050 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 610D0896
+P 3650 2500
+F 0 "R2" V 3443 2500 50  0000 C CNN
+F 1 "1M" V 3534 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 3580 2500 50  0001 C CNN
+F 3 "~" H 3650 2500 50  0001 C CNN
+	1    3650 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 610D0CE4
+P 4150 2500
+F 0 "R3" V 3943 2500 50  0000 C CNN
+F 1 "1M" V 4034 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 4080 2500 50  0001 C CNN
+F 3 "~" H 4150 2500 50  0001 C CNN
+	1    4150 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 610D0FF1
+P 4650 2500
+F 0 "R4" V 4443 2500 50  0000 C CNN
+F 1 "1M" V 4534 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 4580 2500 50  0001 C CNN
+F 3 "~" H 4650 2500 50  0001 C CNN
+	1    4650 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 610D1304
+P 5150 2500
+F 0 "R5" V 4943 2500 50  0000 C CNN
+F 1 "1M" V 5034 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 5080 2500 50  0001 C CNN
+F 3 "~" H 5150 2500 50  0001 C CNN
+	1    5150 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 610D14EF
+P 5650 2500
+F 0 "R6" V 5443 2500 50  0000 C CNN
+F 1 "1M" V 5534 2500 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 5580 2500 50  0001 C CNN
+F 3 "~" H 5650 2500 50  0001 C CNN
+	1    5650 2500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C_Small C1
+U 1 1 610D1D09
+P 3650 2100
+F 0 "C1" V 3421 2100 50  0000 C CNN
+F 1 "8p2" V 3512 2100 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 3650 2100 50  0001 C CNN
+F 3 "~" H 3650 2100 50  0001 C CNN
+	1    3650 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C_Small C2
+U 1 1 610D2AB4
+P 4150 2100
+F 0 "C2" V 3921 2100 50  0000 C CNN
+F 1 "8p2" V 4012 2100 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 4150 2100 50  0001 C CNN
+F 3 "~" H 4150 2100 50  0001 C CNN
+	1    4150 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C_Small C3
+U 1 1 610D2EC8
+P 4650 2100
+F 0 "C3" V 4421 2100 50  0000 C CNN
+F 1 "8p2" V 4512 2100 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 4650 2100 50  0001 C CNN
+F 3 "~" H 4650 2100 50  0001 C CNN
+	1    4650 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C_Small C4
+U 1 1 610D30FF
+P 5150 2100
+F 0 "C4" V 4921 2100 50  0000 C CNN
+F 1 "8p2" V 5012 2100 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 5150 2100 50  0001 C CNN
+F 3 "~" H 5150 2100 50  0001 C CNN
+	1    5150 2100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:C_Small C5
+U 1 1 610D3651
+P 5650 2100
+F 0 "C5" V 5421 2100 50  0000 C CNN
+F 1 "8p2" V 5512 2100 50  0000 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 5650 2100 50  0001 C CNN
+F 3 "~" H 5650 2100 50  0001 C CNN
+	1    5650 2100
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3200 2500 3350 2500
+Wire Wire Line
+	3800 2500 3900 2500
+Wire Wire Line
+	4300 2500 4400 2500
+Wire Wire Line
+	4800 2500 4900 2500
+Wire Wire Line
+	5300 2500 5400 2500
+Wire Wire Line
+	5800 2500 6000 2500
+Wire Wire Line
+	6000 2500 6000 2100
+Wire Wire Line
+	6000 2100 5750 2100
+Wire Wire Line
+	5550 2100 5400 2100
+Wire Wire Line
+	5050 2100 4900 2100
+Wire Wire Line
+	4550 2100 4400 2100
+Wire Wire Line
+	4050 2100 3900 2100
+Wire Wire Line
+	3550 2100 3350 2100
+Wire Wire Line
+	3350 2100 3350 2500
+Connection ~ 3350 2500
+Wire Wire Line
+	3350 2500 3500 2500
+Wire Wire Line
+	3900 2100 3900 2500
+Connection ~ 3900 2100
+Wire Wire Line
+	3900 2100 3750 2100
+Connection ~ 3900 2500
+Wire Wire Line
+	3900 2500 4000 2500
+Wire Wire Line
+	4400 2100 4400 2500
+Connection ~ 4400 2100
+Wire Wire Line
+	4400 2100 4250 2100
+Connection ~ 4400 2500
+Wire Wire Line
+	4400 2500 4500 2500
+Wire Wire Line
+	4900 2100 4900 2500
+Connection ~ 4900 2100
+Wire Wire Line
+	4900 2100 4750 2100
+Connection ~ 4900 2500
+Wire Wire Line
+	4900 2500 5000 2500
+Wire Wire Line
+	5400 2100 5400 2500
+Connection ~ 5400 2100
+Wire Wire Line
+	5400 2100 5250 2100
+Connection ~ 5400 2500
+Wire Wire Line
+	5400 2500 5500 2500
+$Comp
+L BVKSound:Pad_Single U1
+U 1 1 610D5921
+P 2800 2500
+F 0 "U1" H 2938 2305 50  0000 C CNN
+F 1 "Tip" H 2938 2396 50  0000 C CNN
+F 2 "BVKSound:PAD_1_8x4mm_Single" H 2800 2600 50  0001 C CNN
+F 3 "" H 2800 2600 50  0001 C CNN
+	1    2800 2500
+	-1   0    0    1   
+$EndComp
+$Comp
+L BVKSound:Pad_Single U2
+U 1 1 610D5F9F
+P 6150 2500
+F 0 "U2" H 6287 2725 50  0000 C CNN
+F 1 "Cable" H 6287 2634 50  0000 C CNN
+F 2 "BVKSound:PAD_1_8x4mm_Single" H 6150 2600 50  0001 C CNN
+F 3 "" H 6150 2600 50  0001 C CNN
+	1    6150 2500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6150 2500 6000 2500
+Connection ~ 6000 2500
+Wire Wire Line
+	2800 2500 2900 2500
+Text Notes 3350 2800 0    50   ~ 0
+Capacitors: 200V rated\nResistors: 150V rated
+$EndSCHEMATC
